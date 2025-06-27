@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Bert-Slime-PCB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Bert-Slime-PCB.kicad_sym")(options "")(descr ""))
+)

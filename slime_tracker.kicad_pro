@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "slime_tracker.net",
-      "plot": "Gerbers/",
+      "plot": "assembly-files/Gerber-Output/",
       "pos_files": "assembly-files/",
       "specctra_dsn": "",
       "step": "",
