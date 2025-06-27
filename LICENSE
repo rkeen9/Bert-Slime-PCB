@@ -1,0 +1,35 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)
+
+Preamble
+
+This license allows you to use, study, modify and share the hardware design covered by this license. If you distribute the design or modified versions of it, you must do so under the same license, and you must make the design source files available. You must also provide attribution to the original author(s).
+
+Licensed Work: Bert-Slime-Tracker
+Original Author(s): Rob Keen
+Project URL: https://github.com/rkeen9/Bert-Slime-Tracker
+
+You may:
+- Use this design commercially
+- Make and sell physical products based on this design
+- Modify the design for your own purposes
+
+You must:
+- Include a copy of this license with any distribution
+- Provide a link to the original design
+- Release any modifications under the CERN-OHL-S v2
+- Make your source files for modifications available
+- Attribute the original authors
+
+You may not:
+- Redistribute this design or modified versions under a different license
+- Prevent others from accessing the source files of your modifications
+
+Full license text:
+https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
+
+To apply the CERN-OHL-S to your project, you may add the following notice to each source file:
+
+    This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+    You may redistribute and modify this source under the terms of the CERN-OHL-S v2.
+    See https://ohwr.org/cernohl for details.
+
