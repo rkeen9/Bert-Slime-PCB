@@ -1,5 +1,5 @@
 # Bert-Slime-Tracker
-**DOES NOT WORK YET.** If you build this, you will get a non-functional tracker. This repository will be updated once troubleshooting is complete.
+**DOES NOT WORK YET.** If you build this, you will get a non-functional tracker. This repository will be updated once troubleshooting is complete. I'm documenting the troubleshooting here: [Troubleshooting](https://github.com/rkeen9/Bert-Slime-Tracker/blob/main/Troubleshooting/Troubleshooting.md)
 
 Another slime tracker. This one was designed for small form factor and easy DIY that involves minimal soldering and easily obtainable parts. This is essentially just an ICM-45686 breakout board which you can install a D1 mini directly to via 2x8 port 2.54 mm female headers. A TP-4056 charger module can also be installed directly to the board via 2.54mm male headers. Assembly instructions to come once this project is functional.
 
