@@ -7,7 +7,7 @@ Another slime tracker. This one was designed for small form factor and easy DIY 
 - **Bert-Slime-Tracker/** Main folder. Contains KiCAD project files and all other folders.
 - **Bert-Slime-Tracker/Libraries** Contains all custom symbols and footprints used in this project
 - **Bert-Slime-Tracker/assembly-files** Contains all files that would be needed to have this project built by JLCPCB (https://jlcpcb.com/).
-- **Bert-Slime-Tracker/schematics** Contains the schematic in PDF form.
+- **Bert-Slime-Tracker/Schematics** Contains the schematic in PDF form.
 
 # KiCAD Environment Setup
 This project was made in KiCAD 9.0. KiCAD is free PCB design software which can be downloaded from https://www.kicad.org/download/. If you are familiar with KiCAD and Github, all you need to know is that the required files for all custom components are in the **Libraries** folder.
