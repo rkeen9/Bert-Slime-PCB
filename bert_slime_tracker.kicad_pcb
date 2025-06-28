@@ -130,8 +130,8 @@
 			(uuid "2e2dd53d-8026-4c60-a3cc-9fdaa65edc5c")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -176,7 +176,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/b5d9c95b-82be-44ed-913e-6526be7cf851")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
@@ -368,7 +368,7 @@
 		)
 		(path "/c55d22e0-2c6b-4862-b064-a2f63a4d2d44")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.01 -0.31)
@@ -578,7 +578,7 @@
 		)
 		(path "/6f1b7c43-45ff-4414-adde-df8e0743ed74")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.53 0.52)
@@ -822,7 +822,7 @@
 		)
 		(path "/fcedca72-8cf5-4052-aa29-49d306ca3480")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.01 -0.31)
@@ -1036,7 +1036,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a6e242a5-a502-43c1-b2bf-a186982813e6")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)
@@ -1673,7 +1673,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5b235506-8162-45f5-8e98-cc8b0d482bce")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -1983,7 +1983,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/692f3641-2473-4f5b-a26d-f1a3297c5e54")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -2132,13 +2132,13 @@
 		(uuid "4e40932d-2ee1-4760-98aa-c2d1729ce097")
 		(at 151.5 73 180)
 		(property "Reference" "CN1"
-			(at 0 -5.94 180)
+			(at 0 -3.5 180)
 			(layer "F.SilkS")
 			(uuid "4fbfee83-8108-4b95-bb61-8e340ff43ede")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -2192,7 +2192,7 @@
 		)
 		(path "/8caa3131-8b0f-4b93-90ab-2b66c706132b")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.46 0.8)
@@ -2531,7 +2531,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c59474d0-d5e4-4b27-b665-3259afbf173d")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.2 -1.2)
@@ -2692,7 +2692,7 @@
 		)
 		(path "/a0bfbc21-ac5d-4ec9-8b09-3604c1eeae68")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -13.97 -20.32)
@@ -3120,7 +3120,7 @@
 		)
 		(path "/7c40265f-81fb-4197-b2d5-b5729ffad49c")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -3853,7 +3853,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/076478d8-5c30-43ce-a7cf-e37052d1368f")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -4163,7 +4163,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ce69b4ff-7dc5-439d-99df-8ecd767f79ee")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -4364,7 +4364,7 @@
 		)
 		(path "/ead1f674-833e-4a2d-a8c2-dcfe98f81d14")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -8.89 -12.7)
@@ -4462,13 +4462,13 @@
 		(uuid "917d096d-0b1b-46ca-a3a1-5edf80ab0058")
 		(at 140 72.36 180)
 		(property "Reference" "SW1"
-			(at 0 -5.49 180)
+			(at 0 -3.44 180)
 			(layer "F.SilkS")
 			(uuid "21c85c4c-9f81-4851-9e65-8ea1bf7f0830")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -4522,7 +4522,7 @@
 		)
 		(path "/d5da702e-b2e3-4944-b5c4-912d479784d9")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.3 0.82)
@@ -4798,7 +4798,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ffb3a161-a704-4e27-bab6-c90975d96fc5")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.2 -1.2)
@@ -4971,7 +4971,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/54d177c9-cca5-4416-9ce0-1197535a8b6b")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 -0.5225)
@@ -5377,7 +5377,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/84da3163-63f2-416e-a31e-2d06b9eb0eaa")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -5537,7 +5537,7 @@
 				)
 			)
 		)
-		(property "Value" "1532H-24.000JWVDTL"
+		(property "Value" "32.768 kHz Oscillator"
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5549,7 +5549,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590892673421160448"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590171186467942400"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5561,7 +5561,7 @@
 				)
 			)
 		)
-		(property "Description" "3.3V ±10ppm ±30ppm HCMOS 8MHz SMD3225-4P Crystal Oscillators"
+		(property "Description" "3.3V 5mA ±20ppm CMOS 32.768kHz SMD3225-4P Crystal Oscillators ROHS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5573,7 +5573,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C19674145"
+		(property "LCSC Part" "C555607"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5589,7 +5589,7 @@
 		(property ki_fp_filters "Oscillator*SMD*Abracon*ASE*3.2x2.5mm*")
 		(path "/fdff63df-4696-4c85-ba2b-61260bd5328f")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.06 1.71)
@@ -5766,7 +5766,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0205e793-8e96-4935-a785-9d4d04ee02c6")
 		(sheetname "/")
-		(sheetfile "slime_tracker.kicad_sch")
+		(sheetfile "bert_slime_tracker.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.254724 0.5225)

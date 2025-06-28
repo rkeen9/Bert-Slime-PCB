@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "slime_tracker.kicad_pro",
+    "filename": "bert_slime_tracker.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -502,11 +502,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "slime_tracker.net",
+      "netlist": "bert_slime_tracker.net",
       "plot": "assembly-files/Gerber-Output/",
       "pos_files": "assembly-files/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "bert_slime_tracker.step",
       "svg": "",
       "vrml": ""
     },
@@ -514,7 +514,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "assembly-files\\bert_slime_tracker_JLC_BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
