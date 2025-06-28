@@ -61,7 +61,7 @@ void loop() {
   Serial.print("GyroZ:");
   Serial.println(imu_data.gyro_data[2]);
   Serial.print("Temperature:");
-  Serial.println((imu_data.temp_data/128)+25);
+  Serial.println((imu_data.temp_data/128.0)+25.0);
 
-  delay(100);
+  delay(1000);
 }
